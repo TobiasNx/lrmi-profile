@@ -19,7 +19,7 @@
       "$ref": "https://dini-ag-kim.github.io/lrmi-profile/draft/schemas/id.json"
     },
     "type": {
-      "$ref": "https://dini-ag-kim.github.io/lrmi-profile/draft/schemas/type.json"
+      "$ref": "https://raw.githubusercontent.com/dini-ag-kim/lrmi-profile/test21-makeTypeArray/draft/schemas/type.json"
     },
     "name": {
       "$ref": "https://dini-ag-kim.github.io/lrmi-profile/draft/schemas/name.json"
