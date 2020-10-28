@@ -5,9 +5,9 @@
     "description": "Keywords or tags used to describe this content",
     "type": "array",
     "items": {
-        "type": "string",
-        "_display": {
-            "placeholder": "Tags describing the content of the resource"
-        }
+        "type": "string"
+    },
+    "_display": {
+        "placeholder": "Tags describing the content of the resource"
     }
 }
