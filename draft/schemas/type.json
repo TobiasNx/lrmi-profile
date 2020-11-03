@@ -4,19 +4,8 @@
     "title": "Type",
     "description": "The type (rdf:type / @type) of the learning resource, taken from sub-classes of sdo:CreativeWork.",
     "type": "array",
-    "default": "LearningResource",
     "items": {
         "type": "string",
-        "enum": [
-            "AudioObject",
-            "Book",
-            "Course",
-            "DataDownload",
-            "ImageObject",
-            "LearningResource",
-            "PresentationDigitalDocument",
-            "SoftwareApplication",
-            "VideoObject"
-        ]
+        "default": "LearningResource"
     }
 }
